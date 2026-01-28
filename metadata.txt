@@ -5,14 +5,14 @@
 [general]
 name=Post GIS Schema Importer
 qgisMinimumVersion=3.0
-description=Importa all Tables; Relation
+description=Import all Tables; Relations from a PG-DB
 version=0.1
 author=Tobias Heini
 email=tobias.heini@opengis.ch
 
 about=Plugin that imports all Tables/Relations from a Postgres/PostGIS Schema.
 
-tracker=https://github.com/threalslimtobeeee/qgis_pg_schema_importer/issues
+tracker=https://github.com/threalslimtobeeee/qgis_pg_schema_importer
 repository=https://github.com/threalslimtobeeee/qgis_pg_schema_importer
 # End of mandatory metadata
 
@@ -25,7 +25,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=postgis, database
 
-homepage=
+homepage=https://github.com/threalslimtobeeee/qgis_pg_schema_importer
 category=Database
 icon=icon.png
 # experimental flag
