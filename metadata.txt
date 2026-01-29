@@ -3,10 +3,10 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=Post GIS Schema Importer
+name=Post-GIS Schema Importer
 qgisMinimumVersion=3.0
-description=Import all Tables; Relations from a PG-DB
-version=0.1
+description=Imports all Tables; Relations from a PG-DB
+version=0.2
 author=Tobias Heini
 email=tobias.heini@opengis.ch
 
